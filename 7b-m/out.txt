@@ -1,0 +1,17 @@
+Filled container. 
+Container contains 3 elements.
+0: It is Box: x = 2, y = 3, z = 4
+1: It is Sphere: r = 2
+2: It is Tetraidr: a = 4
+Multimethod.
+Box and share.
+It is Box: x = 2, y = 3, z = 4
+It is Sphere: r = 2
+Box and Tetraidr.
+It is Box: x = 2, y = 3, z = 4
+It is Tetraidr: a = 4
+Share and Tetraidr.
+It is Sphere: r = 2
+It is Tetraidr: a = 4
+Empty container. 
+Container contains 0 elements.
